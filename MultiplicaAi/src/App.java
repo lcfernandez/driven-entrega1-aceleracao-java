@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        int num = -1;
+        int num = 5;
 
         System.out.println("Tabela de multiplicação por " + num);
 
